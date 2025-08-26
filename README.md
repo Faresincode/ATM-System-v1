@@ -4,6 +4,10 @@ Simple C++ ATM project
 
 A comprehensive console-based ATM simulator with banking features, admin controls, and file-based data storage.
 
+## 🔐 LogIn Section
+![Calendar Example]([images/calendar-example.png](https://github.com/Faresincode/ATM-System-v1/blob/ATM-System/images/Atm%20login%20screen.png))
+
+
 ## 🌟 Key Features
 
 ### 👤 User Features
