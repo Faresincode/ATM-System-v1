@@ -10,17 +10,6 @@ A comprehensive console-based ATM simulator with banking features, admin control
 
 ## 🌟 Key Features
 
-### 👤 User Features
-- 🔐 Secure PIN-based authentication
-- 💰 Transaction operations:
-  - Quick cash withdrawal ($20-$1000)
-  - Custom withdrawal amounts
-  - Cash deposits
-  - Balance inquiries
-- 📊 Transaction history
-- 🔄 Fund transfers between accounts
-- 🛡️ Self-service account locking
-
 ### 👨‍💼 Admin Features
 - 👥 Full client management:
   - Add/delete client accounts
@@ -32,6 +21,22 @@ A comprehensive console-based ATM simulator with banking features, admin control
 - 📁 Database management:
   - File-based storage (`Clients.txt`)
   - Data backup/restore
+![Admin Panel Screen](images/atm-admin-panel-screen.png)
+
+### 👤 User Features
+- 🔐 Secure PIN-based authentication
+- 💰 Transaction operations:
+  - Quick cash withdrawal ($20-$1000)
+  - Custom withdrawal amounts
+  - Cash deposits
+  - Balance inquiries
+- 📊 Transaction history
+- 🔄 Fund transfers between accounts
+- 🛡️ Self-service account locking
+![Main Menue Screen](images/atm-main-menue-screen.png)
+
+![Clients List Screen 1 ](images/atm-client-list-screen1.png)
+![Client list screen 2 ](images/atm-client-list-screen2.png)
 
 ## 📂 Project Structure
 
